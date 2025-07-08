@@ -1,1 +1,1 @@
-# AI-fitness-detector
+# AI-fitness-advisor
